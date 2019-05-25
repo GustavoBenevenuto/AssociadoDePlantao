@@ -1,0 +1,93 @@
+F:\Arquivos\C#\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\bin\Debug\AssociadoDePlantao.exe.config
+F:\Arquivos\C#\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\bin\Debug\AssociadoDePlantao.exe
+F:\Arquivos\C#\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\bin\Debug\AssociadoDePlantao.pdb
+F:\Arquivos\C#\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmTelaLogin.resources
+F:\Arquivos\C#\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.Properties.Resources.resources
+F:\Arquivos\C#\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.csproj.GenerateResource.Cache
+F:\Arquivos\C#\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.exe
+F:\Arquivos\C#\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.pdb
+F:\Arquivos\C#\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.csprojResolveAssemblyReference.cache
+F:\Arquivos\C#\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmTelaAdmin.resources
+F:\Arquivos\C#\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmTelaGerente.resources
+F:\Arquivos\C#\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmCadastrarLojaAdmin.resources
+F:\Arquivos\C#\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmCadastrarFuncAdm.resources
+F:\Arquivos\C#\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.csproj.CoreCompileInputs.cache
+F:\Arquivos\C#\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmCadastrarSala.resources
+F:\Arquivos\C#\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmEntrarNaSala.resources
+F:\Arquivos\C#\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmMenuLoja.resources
+F:\Arquivos\C#\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmMenuFunc.resources
+F:\Arquivos\C#\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmEditarLoja.resources
+F:\Arquivos\C#\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmExcluirLoja.resources
+F:\Arquivos\C#\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmEditarFunc.resources
+F:\Arquivos\C#\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmExcluirFunc.resources
+F:\Arquivos\C#\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmMenuSalaAdminGerente.resources
+F:\Arquivos\C#\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmAcessoSala.resources
+C:\Users\User\Documents\A - Estudos TI\Tentando arrumar a merda\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\bin\Debug\AssociadoDePlantao.exe.config
+C:\Users\User\Documents\A - Estudos TI\Tentando arrumar a merda\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\bin\Debug\AssociadoDePlantao.exe
+C:\Users\User\Documents\A - Estudos TI\Tentando arrumar a merda\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\bin\Debug\AssociadoDePlantao.pdb
+C:\Users\User\Documents\A - Estudos TI\Tentando arrumar a merda\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\A - Estudos TI\Tentando arrumar a merda\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmAcessoSala.resources
+C:\Users\User\Documents\A - Estudos TI\Tentando arrumar a merda\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmCadastrarFuncAdm.resources
+C:\Users\User\Documents\A - Estudos TI\Tentando arrumar a merda\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmCadastrarLojaAdmin.resources
+C:\Users\User\Documents\A - Estudos TI\Tentando arrumar a merda\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmCadastrarSala.resources
+C:\Users\User\Documents\A - Estudos TI\Tentando arrumar a merda\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmEditarFunc.resources
+C:\Users\User\Documents\A - Estudos TI\Tentando arrumar a merda\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmEditarLoja.resources
+C:\Users\User\Documents\A - Estudos TI\Tentando arrumar a merda\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmEntrarNaSala.resources
+C:\Users\User\Documents\A - Estudos TI\Tentando arrumar a merda\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmExcluirFunc.resources
+C:\Users\User\Documents\A - Estudos TI\Tentando arrumar a merda\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmExcluirLoja.resources
+C:\Users\User\Documents\A - Estudos TI\Tentando arrumar a merda\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmTelaAdmin.resources
+C:\Users\User\Documents\A - Estudos TI\Tentando arrumar a merda\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmTelaGerente.resources
+C:\Users\User\Documents\A - Estudos TI\Tentando arrumar a merda\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmTelaLogin.resources
+C:\Users\User\Documents\A - Estudos TI\Tentando arrumar a merda\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.Properties.Resources.resources
+C:\Users\User\Documents\A - Estudos TI\Tentando arrumar a merda\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.csproj.GenerateResource.Cache
+C:\Users\User\Documents\A - Estudos TI\Tentando arrumar a merda\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\A - Estudos TI\Tentando arrumar a merda\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.exe
+C:\Users\User\Documents\A - Estudos TI\Tentando arrumar a merda\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.pdb
+C:\Users\User\Documents\A - Estudos TI\Tentando arrumar a merda\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmEditarSala.resources
+C:\Users\User\Documents\A - Estudos TI\Tentando arrumar a merda\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmExcluirSala.resources
+F:\Arquivos\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\bin\Debug\AssociadoDePlantao.exe.config
+F:\Arquivos\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\bin\Debug\AssociadoDePlantao.exe
+F:\Arquivos\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\bin\Debug\AssociadoDePlantao.pdb
+F:\Arquivos\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.csprojResolveAssemblyReference.cache
+F:\Arquivos\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmAcessoSala.resources
+F:\Arquivos\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmCadastrarFuncAdm.resources
+F:\Arquivos\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmCadastrarLojaAdmin.resources
+F:\Arquivos\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmCadastrarSala.resources
+F:\Arquivos\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmEditarFunc.resources
+F:\Arquivos\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmEditarLoja.resources
+F:\Arquivos\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmEditarSala.resources
+F:\Arquivos\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmEntrarNaSala.resources
+F:\Arquivos\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmExcluirFunc.resources
+F:\Arquivos\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmExcluirLoja.resources
+F:\Arquivos\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmExcluirSala.resources
+F:\Arquivos\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmTelaAdmin.resources
+F:\Arquivos\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmTelaGerente.resources
+F:\Arquivos\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmTelaLogin.resources
+F:\Arquivos\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.Properties.Resources.resources
+F:\Arquivos\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.csproj.GenerateResource.Cache
+F:\Arquivos\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.exe
+F:\Arquivos\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.pdb
+F:\Arquivos\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Dropbox\A - Estudos TI\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\bin\Debug\AssociadoDePlantao.exe.config
+C:\Users\Gustavo\Dropbox\A - Estudos TI\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\bin\Debug\AssociadoDePlantao.exe
+C:\Users\Gustavo\Dropbox\A - Estudos TI\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\bin\Debug\AssociadoDePlantao.pdb
+C:\Users\Gustavo\Dropbox\A - Estudos TI\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.csprojAssemblyReference.cache
+C:\Users\Gustavo\Dropbox\A - Estudos TI\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmAcessoSala.resources
+C:\Users\Gustavo\Dropbox\A - Estudos TI\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmCadastrarFuncAdm.resources
+C:\Users\Gustavo\Dropbox\A - Estudos TI\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmCadastrarLojaAdmin.resources
+C:\Users\Gustavo\Dropbox\A - Estudos TI\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmCadastrarSala.resources
+C:\Users\Gustavo\Dropbox\A - Estudos TI\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmEditarFunc.resources
+C:\Users\Gustavo\Dropbox\A - Estudos TI\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmEditarLoja.resources
+C:\Users\Gustavo\Dropbox\A - Estudos TI\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmEditarSala.resources
+C:\Users\Gustavo\Dropbox\A - Estudos TI\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmEntrarNaSala.resources
+C:\Users\Gustavo\Dropbox\A - Estudos TI\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmExcluirFunc.resources
+C:\Users\Gustavo\Dropbox\A - Estudos TI\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmExcluirLoja.resources
+C:\Users\Gustavo\Dropbox\A - Estudos TI\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmExcluirSala.resources
+C:\Users\Gustavo\Dropbox\A - Estudos TI\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmTelaAdmin.resources
+C:\Users\Gustavo\Dropbox\A - Estudos TI\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmTelaGerente.resources
+C:\Users\Gustavo\Dropbox\A - Estudos TI\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.frmTelaLogin.resources
+C:\Users\Gustavo\Dropbox\A - Estudos TI\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.Properties.Resources.resources
+C:\Users\Gustavo\Dropbox\A - Estudos TI\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.csproj.GenerateResource.cache
+C:\Users\Gustavo\Dropbox\A - Estudos TI\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Dropbox\A - Estudos TI\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.exe
+C:\Users\Gustavo\Dropbox\A - Estudos TI\C#\Projeto Final Melhorado\Projeto Final\AssociadoDePlantao\AssociadoDePlantao\obj\Debug\AssociadoDePlantao.pdb
