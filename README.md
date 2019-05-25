@@ -19,3 +19,18 @@ Se a quantidade de erros ultrapassar 3 vezes em sequência, o sistema bloqueia e
 - Execute o programa através do Visual Studio
 - Execute o script do Banco de Dados 
 - Na classe "AcessoBD" altere o nome do servidor SQL
+
+## Diagrama de Caso de Uso
+![image](https://user-images.githubusercontent.com/40447101/58374638-eb4a4800-7f17-11e9-836a-7843e29380b5.png)
+
+## Diagrama de Classes
+![image](https://user-images.githubusercontent.com/40447101/58374660-38c6b500-7f18-11e9-9af4-6210524a0581.png)
+
+## DER Conceitual
+![image](https://user-images.githubusercontent.com/40447101/58374663-4ed47580-7f18-11e9-90a3-9d633cf2a66b.png)
+
+## DER Lógico
+*Fiquei de fazer alguns ajustes nesse diagrama*
+![image](https://user-images.githubusercontent.com/40447101/58374681-a246c380-7f18-11e9-9888-7e8f38256ad2.png)
+
+
